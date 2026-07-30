@@ -1,6 +1,6 @@
 # 🚀 Servidor Node.js + Express & MongoDB
 
-Este repositório contém uma aplicação Backend desenvolvida em **Node.js** utilizando o framework **Express** e o ORM **Mongoose** para integração e persistência de dados no banco **MongoDB Atlas**. 
+Este repositório contém uma aplicação Backend desenvolvida em **Node.js** utilizando o framework **Express** e o ORM **Mongoose** para integração e persistência de dados no banco **MongoDB Atlas**. Servindo também como um boilerplate para os próximos projetos.
 
 O projeto foi estruturado seguindo o padrão de arquitetura **MVC (Model-View-Controller)**, utilizando o motor de renderização **EJS** para renderizar as visões dinâmicas no lado do servidor.
 
