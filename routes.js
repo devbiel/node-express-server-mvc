@@ -8,7 +8,6 @@ route.get('/', homeController.paginaInicial);
 route.post('/', homeController.trataPost);
 
 // rotas de contato
-
 route.get('/contato', contatoController.paginaInicial);
 
 
